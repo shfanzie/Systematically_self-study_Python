@@ -13,18 +13,22 @@
 ### 1、入门
 - 学习 Python 的语法知识、算法和数据结构、编程范式等。
 - 学习 Python 的语法技巧、类库的使用、IDE使用等。
+
   （持续更新中···）
 
 ### 2、进阶
 - 利用 Python 结合专业知识解决具体的实际问题。
+
   （持续更新中···）
 
 ### 3、深入
 - 了解 Python 的“内核”，也就是分析 Python 的源代码。
+
   （持续更新中···）
 
 ## 更多学习资料
 [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)：一个免费的编程中文书籍索引，你可查看 Python 下的经典书籍。
+
 [@萧井陌：编程入门指南 v1.5](https://zhuanlan.zhihu.com/p/19959253?columnSlug=xiao-jing-mo)：本指南更多讲的是学习中多问几个 Why，深入了解其背后的技术细节等。
 
 最后引用 [彭猫](https://www.zhihu.com/people/happlex) 的话：每个人学编程的道路都是不一样的，其实大都殊途同归，没有迷路的人只有不能坚持的人。虽然听上去有点鸡汤，但是这是事实。
