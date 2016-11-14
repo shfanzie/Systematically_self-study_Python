@@ -45,9 +45,7 @@
 
 * [@萧井陌：编程入门指南 v1.5](https://zhuanlan.zhihu.com/p/19959253?columnSlug=xiao-jing-mo)：本指南更多讲的是学习中多问几个 Why，深入了解其背后的技术细节等。
 
-
-  最后引用 [彭猫] 的话：每个人学编程的道路都是不一样的，其实大都殊途同归，没有迷路的人只有不能坚持的人。虽然听上去有点鸡汤，但是这是事实。
-
+最后引用【彭猫】的话：每个人学编程的道路都是不一样的，其实大都殊途同归，没有迷路的人只有不能坚持的人。虽然听上去有点鸡汤，但是这是事实。
 
 ### Funny Things
 
@@ -68,7 +66,7 @@
 * [廖雪峰 Python 2.7 中文教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [廖雪峰 Python 3 中文教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)：Python 中文教程的翘楚，专为刚刚步入程序世界的小白打造。
 * [Python 最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)：这本指南着重于 Python 的最佳实践，不管你是 Python 专家还是新手，都能获得极大的帮助。
-* Python 官方文档([2.7](https://docs.python.org/2/) [3.5](https://docs.python.org/3/)：实践中大部分问题，都可以在官方文档中找到答案。
+* [Python 官方文档2.7](https://docs.python.org/2/) [3.5](https://docs.python.org/3/)：实践中大部分问题，都可以在官方文档中找到答案。
 * [Awesome Python](http://awesome-python.com/)：这里列出了你在尝试解决各种实际问题时，Python 社区已有的工具型类库。
 * [简明 Python 教程](http://www.kuqin.com/abyteofpython_cn/)
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
