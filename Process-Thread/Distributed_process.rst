@@ -138,7 +138,7 @@ task_worker.py进程结束，在task_master.py进程中会继续打印出结果:
 
 这个简单的Master/Worker模型有什么用？其实这就是一个简单但真正的分布式计算，把代码稍加改造，启动多个worker，就可以把任务分布到几台甚至几十台机器上，比如把计算n*n的代码换成发送邮件，就实现了邮件队列的异步发送。
 
-Queue对象存储在哪？注意到task_worker.py中根本没有创建Queue的代码，所以，Queue对象存储在task_master.py进程中：
+Queue对象存储在哪？注意到task_worker.py中根本没有创建Queue的代码，所以，Queue对象存储在task_master.py进程中::
 
     ![task_master_worker](https://raw.githubusercontent.com/shfanzie/Systematically_self-study_Python/master/Image/task_master_worker.png)
 
