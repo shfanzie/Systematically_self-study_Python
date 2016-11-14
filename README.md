@@ -26,23 +26,49 @@
 
   （持续更新中···）
 
-## 更多学习资料
-[免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)：一个免费的编程中文书籍索引，你可查看 Python 下的经典书籍。
+## MORE
+* [慕课网视频教程](http://www.imooc.com/course/list?c=python)
 
-[@萧井陌：编程入门指南 v1.5](https://zhuanlan.zhihu.com/p/19959253?columnSlug=xiao-jing-mo)：本指南更多讲的是学习中多问几个 Why，深入了解其背后的技术细节等。
+* [Python 初学者的最佳学习资源](http://python.jobbole.com/82399/)
+
+* [Python 学习资料总结](https://zhuanlan.zhihu.com/p/22333205?refer=it1024)
+
+* [一篇文章入门 Python 生态系统](http://codingpy.com/article/python-ecosystem-introduction/)
+
+* [如何像 Python 高手( Pythonista )一样编程](http://xianglong.me/article/how-to-code-like-a-pythonista-idiomatic-python/)
+
+* [Python Module of the Week](https://pymotw.com/2/contents.html)
+
+* [Full Stack Python](http://www.fullstackpython.com/table-of-contents.html)
+
+* [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN)：一个免费的编程中文书籍索引，你可查看 Python 下的经典书籍。
+
+* [@萧井陌：编程入门指南 v1.5](https://zhuanlan.zhihu.com/p/19959253?columnSlug=xiao-jing-mo)：本指南更多讲的是学习中多问几个 Why，深入了解其背后的技术细节等。
 
 最后引用 [彭猫](https://www.zhihu.com/people/happlex) 的话：每个人学编程的道路都是不一样的，其实大都殊途同归，没有迷路的人只有不能坚持的人。虽然听上去有点鸡汤，但是这是事实。
 
+### Funny Things
+
+* [教你阅读 Python 开源项目代码](https://zhuanlan.zhihu.com/p/22275595)
+
+* [有哪些适合新手练手的 Python 项目？](https://zhuanlan.zhihu.com/p/22164270?refer=passer)
+
+* [可以用 Python 编程语言做哪些神奇好玩的事情？](https://www.zhihu.com/question/21395276)
+
+* [Python 的练手项目有哪些值得推荐？Wayne Shi的回答](https://www.zhihu.com/question/29372574/answer/88744491)
+
+* [Python 的练手项目有哪些值得推荐？小小搬运工的回答](https://www.zhihu.com/question/29372574/answer/88624507)
 
 ### Python参考学习资料
 
-* [笨办法学 Python](https://learnpythonthehardway.org/book/) ([PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf) [EPUB](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw) [中文HTML](http://www.kancloud.cn/kancloud/learn-python-hard-way/49863))：这本书在讲解 Python 的语法成分时，还附带大量可实践的例子，非常适合快速起步。
+* [笨办法学 Python](https://learnpythonthehardway.org/book/) [中文版](http://www.kancloud.cn/kancloud/learn-python-hard-way/49863)：这本书在讲解 Python 的语法成分时，还附带大量可实践的例子，非常适合快速起步。
+* [Python 快速教程-Vamei 的博客](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
 * [廖雪峰 Python 2.7 中文教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [廖雪峰 Python 3 中文教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)：Python 中文教程的翘楚，专为刚刚步入程序世界的小白打造。
-* [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)：这本指南着重于 Python 的最佳实践，不管你是 Python 专家还是新手，都能获得极大的帮助。
-* Python 官方文档(([2.7](https://docs.python.org/2/) [3.5](https://docs.python.org/3/))：实践中大部分问题，都可以在官方文档中找到答案。
-* [Awesome Python 项目](http://awesome-python.com/)：这里列出了你在尝试解决各种实际问题时，Python 社区已有的工具型类库。
-* [简明Python教程](http://www.kuqin.com/abyteofpython_cn/)
+* [Python 最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)：这本指南着重于 Python 的最佳实践，不管你是 Python 专家还是新手，都能获得极大的帮助。
+* Python 官方文档([2.7](https://docs.python.org/2/) [3.5](https://docs.python.org/3/)：实践中大部分问题，都可以在官方文档中找到答案。
+* [Awesome Python](http://awesome-python.com/)：这里列出了你在尝试解决各种实际问题时，Python 社区已有的工具型类库。
+* [简明 Python 教程](http://www.kuqin.com/abyteofpython_cn/)
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
 * [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
 * [知乎周刊·编程小白学Python](https://read.douban.com/ebook/16691849/)
@@ -54,7 +80,7 @@
 * [Python Cookbook 中文版](http://www.kancloud.cn/thinkphp/python-cookbook)
 * [Python3 Cookbook 中文版](https://github.com/yidao620c/python3-cookbook)
 * [Think Python](https://github.com/carfly/thinkpython-cn)
-* [Think Python 2ed](https://github.com/bingjin/ThinkPython2-CN)
+* [Think Python 2ed](https://github.com/bingjin/ThinkPython2-CN) [中文版](http://codingpy.com/books/thinkpython2/index.html)
 * [Python 正则表达式操作指南](http://wiki.ubuntu.org.cn/Python正则表达式操作指南)
 * [Python进阶](https://www.gitbook.com/book/eastlakeside/interpy-zh/details)
 * [深入 Python](http://www.kuqin.com/docs/diveintopythonzh-cn-5.4b/html/toc/)
