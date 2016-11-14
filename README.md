@@ -34,7 +34,7 @@
 最后引用 [彭猫](https://www.zhihu.com/people/happlex) 的话：每个人学编程的道路都是不一样的，其实大都殊途同归，没有迷路的人只有不能坚持的人。虽然听上去有点鸡汤，但是这是事实。
 
 
-### 免费的计算机编程类中文书籍索引下 [Python](https://github.com/justjavac/free-programming-books-zh_CN#python)目录
+### [免费的计算机编程类中文书籍](https://github.com/justjavac/free-programming-books-zh_CN) 索引下的 [Python](https://github.com/justjavac/free-programming-books-zh_CN#python)目录：
 
 * [廖雪峰 Python 2.7 中文教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [廖雪峰 Python 3 中文教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
