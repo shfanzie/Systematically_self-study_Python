@@ -39,9 +39,9 @@
 * [笨办法学 Python](https://learnpythonthehardway.org/book/) ([PDF](http://liam0205.me/attachment/Python/PyHardWay/Learn_Python_The_Hard_Way_zh-cn.pdf) [EPUB](https://www.gitbook.com/download/epub/book/wizardforcel/lpthw) [中文HTML](http://www.kancloud.cn/kancloud/learn-python-hard-way/49863))：这本书在讲解 Python 的语法成分时，还附带大量可实践的例子，非常适合快速起步。
 * [廖雪峰 Python 2.7 中文教程](http://www.liaoxuefeng.com/wiki/001374738125095c955c1e6d8bb493182103fac9270762a000)
 * [廖雪峰 Python 3 中文教程](http://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)：Python 中文教程的翘楚，专为刚刚步入程序世界的小白打造。
-* [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)这本指南着重于 Python 的最佳实践，不管你是 Python 专家还是新手，都能获得极大的帮助。
-* Python 官方文档：([2.7](https://docs.python.org/2/) [3.5](https://docs.python.org/3/) [中文版]http://data.digitser.net/zh-CN/python_index.html))实践中大部分问题，都可以在官方文档中找到答案。
-* [Awesome Python 项目](http://awesome-python.com/)
+* [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/)：这本指南着重于 Python 的最佳实践，不管你是 Python 专家还是新手，都能获得极大的帮助。
+* Python 官方文档(([2.7](https://docs.python.org/2/) [3.5](https://docs.python.org/3/))：实践中大部分问题，都可以在官方文档中找到答案。
+* [Awesome Python 项目](http://awesome-python.com/)：这里列出了你在尝试解决各种实际问题时，Python 社区已有的工具型类库。
 * [简明Python教程](http://www.kuqin.com/abyteofpython_cn/)
 * [零基础学 Python 第一版](http://www.kancloud.cn/kancloud/python-basic)
 * [零基础学 Python 第二版](http://www.kancloud.cn/kancloud/starter-learning-python)
