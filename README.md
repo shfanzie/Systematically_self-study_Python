@@ -6,7 +6,7 @@
 
 知乎上聚集着非常多的程序员，你能找到各种条目的词条。例如：[Python](https://www.zhihu.com/topic/19552832) 词条下面的索引也能给你学习上很大的帮助。当然，遇到不懂的技术细节 Google 或者 stackoverflow 上去搜索相关的解决方案，以及参考维基百科的词条。
 
-## 学习框架
+## 学习框架：
   3W：why、what、how。你为什么要学习 Python，以及 Python 能干什么，那么怎么去学习 Python ？
   Python 可以让你做很多事情，科学计算和数据分析、爬虫、Web 网站、游戏、命令行实用工具等，以上列举的总有一种是你学习Python感兴趣的吧！
 
@@ -26,7 +26,7 @@
 
   （持续更新中···）
 
-## MORE
+## MORE：
 * [慕课网视频教程](http://www.imooc.com/course/list?c=python)
 
 * [Python 初学者的最佳学习资源](http://python.jobbole.com/82399/)
@@ -47,7 +47,7 @@
 
 最后引用【彭猫】的话：每个人学编程的道路都是不一样的，其实大都殊途同归，没有迷路的人只有不能坚持的人。虽然听上去有点鸡汤，但是这是事实。
 
-### Funny Things
+### Funny Things：
 
 * [教你阅读 Python 开源项目代码](https://zhuanlan.zhihu.com/p/22275595)
 
@@ -59,7 +59,7 @@
 
 * [Python 的练手项目有哪些值得推荐？小小搬运工的回答](https://www.zhihu.com/question/29372574/answer/88624507)
 
-### Python参考学习资料
+### Python参考学习资料：
 
 * [笨办法学 Python](https://learnpythonthehardway.org/book/) [中文版](http://www.kancloud.cn/kancloud/learn-python-hard-way/49863)：这本书在讲解 Python 的语法成分时，还附带大量可实践的例子，非常适合快速起步。
 * [Python 快速教程-Vamei 的博客](http://www.cnblogs.com/vamei/archive/2012/09/13/2682778.html)
